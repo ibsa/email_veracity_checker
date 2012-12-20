@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Check email is exist or not without sending message}
   s.email = %q{kiran@joshsoftware.com}
   s.extra_rdoc_files = ["README", "lib/email_check.rb"]
-  s.files = ["Manifest", "README", "Rakefile", "email_veracity_checker.gemspec", "lib/email_check.rb"]
+  s.files = ["README", "Rakefile", "email_veracity_checker.gemspec", "lib/email_check.rb"]
   s.homepage = %q{https://github.com/joshsoftware/email_veracity_checke}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Email_veracity_checker", "--main", "README"]
   s.require_paths = ["lib"]
